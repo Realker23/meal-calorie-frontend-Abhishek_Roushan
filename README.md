@@ -4,9 +4,7 @@ A production-ready Next.js frontend for the Meal Calorie Count Generator API. Us
 
 ## Live App
 
-> **Hosted URL:** _Add your Vercel deployment URL here after deploying_
->
-> Example: `https://meal-calorie-frontend.vercel.app`
+> **Hosted URL:** https://meal-calorie-frontend-abhishek-rous.vercel.app/
 
 ---
 
