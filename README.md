@@ -17,15 +17,20 @@ A production-ready Next.js frontend for the Meal Calorie Count Generator API. Us
 
 | Login | Register |
 |---|---|
-| _(screenshot)_ | _(screenshot)_ |
+| <img width="1899" height="932" alt="image" src="https://github.com/user-attachments/assets/282f2302-f9aa-4089-b6d5-cf151d35e5a5" />
+ | <img width="1899" height="930" alt="image" src="https://github.com/user-attachments/assets/53c73eb4-990b-4817-97dc-f4a6aca6a580" />
+ |
 
 ### Dashboard
 | Light Mode | Dark Mode |
 |---|---|
-| _(screenshot)_ | _(screenshot)_ |
+| <img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/7d6eb5ac-24b4-44bd-9425-d8910622de1f" />
+ | <img width="1908" height="931" alt="image" src="https://github.com/user-attachments/assets/36b57425-d338-4afd-92f3-0f9a1de110b0" />
+ |
 
 ### Calorie Lookup — Results
-> _(screenshot of ResultCard with macronutrient breakdown)_
+><img width="1913" height="936" alt="image" src="https://github.com/user-attachments/assets/74b6f233-5b5b-479b-85af-a9b1307620a9" />
+
 
 ---
 
