@@ -83,18 +83,6 @@ npm start
 
 ---
 
-## Deployment (Vercel)
-
-1. Push the repository to GitHub.
-2. Go to [vercel.com/new](https://vercel.com/new) and import the repo.
-3. Under **Environment Variables**, add:
-   ```
-   NEXT_PUBLIC_API_BASE_URL = https://xpcc.devb.zeak.io
-   ```
-4. Click **Deploy**. Vercel auto-detects Next.js and builds correctly.
-
----
-
 ## Project Structure
 
 ```
